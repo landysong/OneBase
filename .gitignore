@@ -1,0 +1,10 @@
+.idea
+composer.lock
+*.log
+thinkphp
+*.DS_Store
+/.project
+*.swp
+*.pem
+.idea
+nbproject

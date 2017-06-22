@@ -1,0 +1,3 @@
+<?php
+//000000000000s:394:"D:\phpStudyNew\WWW\OneBase\runtime\cache\7f\8957531700ae37158cbb29ae43b884.php,D:\phpStudyNew\WWW\OneBase\runtime\cache\73\d80827904c4fc11459494dc8b85fe9.php,D:\phpStudyNew\WWW\OneBase\runtime\cache\13\c2f489bb29e4d62f373e8e6b0017bf.php,D:\phpStudyNew\WWW\OneBase\runtime\cache\93\be0c0a30037472a06109495bc513b0.php,D:\phpStudyNew\WWW\OneBase\runtime\cache\db\81dedb6c0930d0c31d7650395e12b6.php";
+?>
